@@ -29,9 +29,3 @@ Everledger NextGen được triển khai bằng Python, mô phỏng một Blockc
 - **NumPy**: Hỗ trợ tính toán số học trong dự đoán AI (`pip install numpy`)
 - **Scikit-learn**: Triển khai mô hình học máy (`pip install scikit-learn`)
 
-## Hướng dẫn cài đặt và sử dụng
-
-### Điều kiện tiên quyết
-Đảm bảo bạn đã cài đặt Python 3.8 hoặc cao hơn. Cài đặt các thư viện cần thiết bằng pip:
-```bash
-pip install cryptography numpy scikit-learn
